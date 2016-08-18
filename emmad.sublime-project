@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			//Theme Folder
+			"path": "/C/Users/User/Desktop/emmad",
+			"name": "Painter template theme",
+			"file_exclude_patterns":[
+                "*.ico",
+                "*.swf",
+                "*.md"
+            ],
+            "folder_exclude_patterns": [
+                "images",
+                "fonts",
+
+                // add any folder that u want to exclude here
+            ]
+		},
+		{
+			//other  Folder  here that u want to include as a project folder
+		}
+	],
+	"settings":
+    {
+        "tab_size": 4
+    }
+}

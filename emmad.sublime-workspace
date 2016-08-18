@@ -491,10 +491,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 222.0,
-		"last_filter": "new fol",
+		"height": 400.0,
+		"last_filter": "packa",
 		"selected_items":
 		[
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
 			[
 				"new fol",
 				"File: New Folder Relative to Current View"
@@ -567,8 +575,18 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/User/Desktop/emmad"
+	],
 	"file_history":
 	[
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/User/Desktop/emmad/index.html",
+		"/C/Users/User/Desktop/emmad/emmad.sublime-project",
+		"/C/Users/User/Desktop/emmad/emmad.sublime-workspace",
+		"/C/Users/User/Desktop/emmad/README.md",
 		"/D/xampp/htdocs/emmad/index.php",
 		"/D/xampp/htdocs/Emmad",
 		"/D/xampp/htdocs/template/style.js",
@@ -699,6 +717,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 152.0
 	},
 	"output.sftp":
 	{
