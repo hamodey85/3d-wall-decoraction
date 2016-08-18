@@ -1,0 +1,286 @@
+/* Main Style*/
+
+/**
+ * @brand 
+ */
+body{
+	font-family: 'Nunito', sans-serif;
+}
+.brand-span,.carousel-caption h3,.our-service-h>h3{
+	 color: #c0392b;
+}
+.navbar-inverse .navbar-nav>li>a:focus,
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>.active>a, 
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-right-li-a{
+	background: #c0392b;
+}
+.carousel-indicators .active {
+	background: #c0392b;
+}
+
+
+.navbar{
+	border: 0;
+	border-radius: 0;
+	margin: 0;
+}
+.logo-container{
+	background: #2c3e50;
+}
+.logo{
+
+}
+.logo p {
+	display: block;
+	padding: 50px 0;
+	font-size: 45px;
+	color:#fff ;
+	margin-bottom: 0;
+}
+.logo span{
+	font-size: 30px;
+}
+.call-us{
+
+}
+.call-us p{
+	display: block;
+	padding: 70px 0;
+	font-size: 25px;
+	color:#c0392b ;
+	margin-bottom: 0;
+	float: right;
+}
+.call-us span{
+	color: #EEE;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+}
+.navbar-nav>li>a{
+	padding: 25px 15px;
+}
+.navbar-right{
+	display: none;
+}
+.navbar-right-li-a span{
+	color: #FFF;
+}
+ .navbar-right-li-a:hover span{
+	color: #9d9d9d;
+}
+
+/*==============================
+================================
+================================
+================================
+================================*/
+.carousel-inner{
+	width: 100%;
+}
+.carousel-inner .item .carousel-caption{
+display: none;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img{
+	margin-left: auto;
+	margin-right: auto;
+}
+.carousel-caption{
+	background: rgba(34, 34, 34,1);
+	margin-bottom: 0;
+	bottom: 0;
+}
+.carousel-caption h3{
+	margin-top: 0;
+	padding-bottom: 15px;
+	
+
+}
+.carousel-caption p{
+
+	padding: 0 20px;
+	line-height: 2.428571;
+}
+.carousel-indicators{
+	bottom:  0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+
+}
+.carousel-indicators .active{
+	font-size: 1em;
+	border-color: #c0392b ;
+}
+/*==============================
+================================
+================================
+================================
+================================*/
+.our-sevice{
+	background: rgba(34, 34, 34,1.0);
+	padding-bottom: 100px ;
+}
+.our-service-h>h3,.recent-h3{
+	text-align: center;
+	margin-bottom: 60px;
+	margin-top: 100px;
+}
+.service-1{
+	background: #2980b9;
+}
+.service-2{
+	background: #f39c12;
+}
+.service-3{
+	background: #27ae60;
+}
+.service>h3{
+	padding: 20px 0;
+	margin-bottom: 10px;
+	background: rgba(44, 62, 80,.2) ;
+	color: #fff;
+	text-align: center;
+
+	
+}
+.service>p{
+	padding: 20px;
+	font-size: 1.5em;
+}
+
+/*==============================
+================================
+================================
+================================
+================================*/
+
+
+.Quality{
+	background: #2c3e50;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.qua-pad{
+	padding-bottom: 60px;
+}
+.qua-head{
+	text-align: center;
+	margin: 50px 0;
+}
+.qua-head>h3{
+	 color: #c0392b;
+
+}
+.qua-body{
+	color: #DDD;
+	font-size: 2em;
+	text-align: center;
+}
+.quality-1 i,.quality-1 h3{
+	color: #f39c12;
+}
+.quality-2 i,.quality-2 h3{
+	color: #2980b9;
+}
+.quality-3 i,.quality-3 h3{
+	color: #c0392b;
+}
+.img-responsive{
+	margin-left:  auto;
+	margin-right:  auto;
+}
+/*==============================
+================================
+================================
+================================
+================================*/
+.recent-project{
+	background: #2980b9;
+	padding-bottom: 40px;
+}
+.recent-h3{
+	color: #2c3e50;
+	font-weight: bolder;
+}
+.projects{
+	width: 100%;
+	height: 200px;
+	background: #2c3e50;
+	margin-bottom: 20px;
+}
+
+/*==============================
+================================
+================================
+================================
+================================*/
+
+.contact{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background: #212121;
+}
+
+.contact-h3{
+	margin: 40px auto 60px;
+	color: #c0392b;
+}
+.contact .form-control {
+}
+.contact .control-label{
+	color: #d9534f;
+}
+.contact .form-control:hover{
+}
+
+.contact-details-h3{
+	padding-top: 0;
+	margin-top: 0;
+	color: #f39c12;
+}
+.details{
+	margin: 0 auto;
+	width: 60%;
+}
+.details p {
+	font-size: 1.5em;
+	
+	display: block;
+	color: #c0392b;
+}
+.details span{
+	color: #bdc3c7;
+}
+footer{
+	background: #222;
+	padding: 20px 0;
+	text-align: center;
+}
+footer p {
+	color: #2980b9;
+}
+footer span{
+	color:#c0392b ;
+}
+@media (max-width:700px) {
+	.details{
+	margin: 0 auto;
+	width: 80%;
+
+	}
+	.logo{
+		text-align: center;
+	}
+	.logo p{
+		padding-bottom: 0;
+	}
+	.call-us p{
+		text-align: center;
+		display: block;
+		width: 100%;
+		padding: 20px 0;
+	}
+}

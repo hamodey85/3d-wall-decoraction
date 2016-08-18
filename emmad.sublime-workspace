@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"visible"
+			],
+			[
+				"pr",
+				"presentation-level"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"3",
+				"preserve-3d"
+			],
+			[
+				"transf",
+				"transform-style"
+			],
+			[
+				"rotate",
+				"rotateY()"
+			],
+			[
+				"val",
+				"value	Attr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"heigh",
+				"height	(style.css)"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width	style.js"
+			],
+			[
+				"w",
+				"width	style.js"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"med",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"media",
+				"media	media"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"cir",
+				"circle-tongo"
+			],
+			[
+				"eye-",
+				"eye-left"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"top",
+				"top: 〔property〕"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ci",
+				"circle"
+			],
+			[
+				"rea",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"jq",
+				"jq-boilerplate-min	jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"fu",
+				"map(function(aSome) {"
+			],
+			[
+				"doc",
+				"decodeURIComponent(aSome)"
+			],
+			[
+				"bs-",
+				"bs3-sm-button:danger	bs3-sm-button-danger"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"na",
+				"navbar	navbar"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"bs3te",
+				"bs3-template:starter	bs3-template.starter"
+			],
+			[
+				"bst",
+				"bst-cdn:js	bst-cdn-js"
+			],
+			[
+				"i",
+				"iframe	<iframe>"
+			],
+			[
+				"redirectM",
+				"redirectMsg($msg, $second)	mixed"
+			],
+			[
+				"secon",
+				"second"
+			],
+			[
+				"alert",
+				"alert:danger	danger"
+			],
+			[
+				"_G",
+				"$_GET〔variable〕"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"bs3-tab",
+				"bs3-table	bs3-table"
+			],
+			[
+				"ema",
+				"$email〔variable〕"
+			],
+			[
+				"us",
+				"$username〔variable〕"
+			],
+			[
+				"Full",
+				"Fullname"
+			],
+			[
+				"Use",
+				"UserName"
+			],
+			[
+				"c",
+				"class=\"alert"
+			],
+			[
+				"_se",
+				"_SERVER"
+			],
+			[
+				"members",
+				"members.php?action=edit	(navbar.php)"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"aler",
+				"alert:danger	danger"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"forea",
+				"foreach〔keyword〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"sha",
+				"sha1〔function〕"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"pas",
+				"$password〔variable〕"
+			],
+			[
+				"P",
+				"Password	(functions.php)"
+			],
+			[
+				"User",
+				"UserID"
+			],
+			[
+				"_PO",
+				"$_POST〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"use",
+				"userid	(functions.php)"
+			],
+			[
+				"hea",
+				"header	(members.php)"
+			],
+			[
+				"bt",
+				"btn-primary	(members.php)"
+			],
+			[
+				"inputs",
+				"inputs	input - submit"
+			],
+			[
+				"bs3-submi",
+				"bs3-input:submit	bs3-input-submit"
+			],
+			[
+				"bs3-subm",
+				"bs3-input:submit	bs3-input-submit"
+			],
+			[
+				"sub",
+				"submit	(index.php)"
+			],
+			[
+				"bs3-for",
+				"bs3-form:label	bs3-form-label"
+			],
+			[
+				"form",
+				"form:group	group"
+			],
+			[
+				"bs3-in",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"lab",
+				"label	label"
+			],
+			[
+				"bs3-f",
+				"bs3-form:label	bs3-form-label"
+			],
+			[
+				"bs3-label",
+				"bs3-input:label	bs3-input-label"
+			],
+			[
+				"bs3-la",
+				"bs3-label	bs3-label"
+			],
+			[
+				"bs3-form",
+				"bs3-form:horizontal	bs3-form-horizontal"
+			],
+			[
+				"bs3-tm",
+				"bs3-template:starter	bs3-template.starter"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"cont",
+				"container	(navbar.php)"
+			],
+			[
+				"PHP",
+				"php"
+			],
+			[
+				"_SE",
+				"$_SERVER〔variable〕"
+			],
+			[
+				"_get",
+				"$_GET〔variable〕"
+			],
+			[
+				"page",
+				"pageSelect〔function〕"
+			],
+			[
+				"isse",
+				"isset〔function〕"
+			],
+			[
+				"incl",
+				"include_once〔keyword〕"
+			],
+			[
+				"ses",
+				"session_start	(index.php)"
+			],
+			[
+				"_g",
+				"$_GET〔variable〕"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"header",
+				"header〔function〕"
+			],
+			[
+				"iss",
+				"isset〔function〕"
+			],
+			[
+				"hash",
+				"$hashpass〔variable〕"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"funcito",
+				"function〔keyword〕"
+			],
+			[
+				"fun",
+				"filter(function(aSome) {"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"input",
+				"inputn	input - number"
+			],
+			[
+				"inc",
+				"include_once〔keyword〕"
+			],
+			[
+				"ech",
+				"echo〔keyword〕"
+			],
+			[
+				"conne",
+				"$connect〔variable〕"
+			],
+			[
+				"op",
+				"$option〔variable〕"
+			],
+			[
+				"tr",
+				"try	Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"lan",
+				"$lang〔variable〕"
+			],
+			[
+				"array",
+				"array〔keyword〕"
+			],
+			[
+				"sta",
+				"static〔keyword〕"
+			],
+			[
+				"functio",
+				"create_function"
+			],
+			[
+				"requ",
+				"require_once〔keyword〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"last_filter": "new fol",
+		"selected_items":
+		[
+			[
+				"new fol",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"new pro",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload",
+				"LiveReload: Help"
+			],
+			[
+				"reload",
+				"LiveReload: Help"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Snippet: ",
+				"Snippet: success"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/emmad/index.php",
+		"/D/xampp/htdocs/Emmad",
+		"/D/xampp/htdocs/template/style.js",
+		"/D/xampp/htdocs/template/index.html",
+		"/D/xampp/htdocs/template/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/xampp/htdocs/template/aa",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+		"/D/Web design/CSS tricks/Shake.css",
+		"/D/xampp/htdocs/template/template.sublime-project",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/xampp/htdocs/ecommerce/admin/members.php",
+		"/D/xampp/htdocs/ecommerce/admin/include/templates/navbar.php",
+		"/D/xampp/htdocs/ecommerce/admin/dashboard.php",
+		"/D/xampp/htdocs/ecommerce/admin/index.php",
+		"/D/xampp/htdocs/ecommerce/admin/include/func/functions.php",
+		"/D/xampp/htdocs/ecommerce/admin/layout/css/backend.css",
+		"/D/xampp/htdocs/ecommerce/admin/layout/js/backend.js",
+		"/D/xampp/htdocs/ecommerce/admin/init.php",
+		"/D/xampp/htdocs/ecommerce/admin/include/templates/footer.php",
+		"/D/xampp/htdocs/ecommerce/admin/page.php",
+		"/D/xampp/htdocs/ecommerce/admin/logout.php",
+		"/D/xampp/htdocs/ecommerce/admin/include/lang/english.php",
+		"/D/xampp/htdocs/ecommerce/admin/confg.php",
+		"/D/xampp/htdocs/ecommerce/admin/include/templates/header.php",
+		"/D/xampp/htdocs/ecommerce/admin/include/lang/arabic.php",
+		"/D/xampp/htdocs/ecommerce/admin/layout/css/backend",
+		"/D/xampp/htdocs/ecommerce/admin/layout/js/jquery-3.1.0.min.js",
+		"/D/xampp/htdocs/ecommerce/admin/include/templates/index.php",
+		"/C/Users/User/Desktop/aaaa",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log(radius);",
+			"number",
+			"			<tr>\n				<th></th>\n			</tr>",
+			"'=>,\n",
+			"'] ",
+			"[];\n",
+			"script",
+			"\"command\": \"expand_abbreviation_by_tab\"",
+			"\"command\": \"expand_abbreviation_by_tab\", ",
+			"expand a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "emmad.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\emmad\\index.php"
+			],
+			[
+				"nav",
+				"admin\\include\\templates\\navbar.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

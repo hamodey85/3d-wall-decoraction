@@ -1,0 +1,25 @@
+html,
+body,
+ul,
+ol {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #efefef; }
+
+.extend, .example {
+  color: #333; }
+
+.example {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  background: #33333;
+  color: #333; }
+
+/*# sourceMappingURL=main.css.map */
